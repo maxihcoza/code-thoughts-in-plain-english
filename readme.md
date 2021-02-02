@@ -1,5 +1,9 @@
-# My Code Thoughts
+# My Code Thoughts In Plain English
 
-## In Plain English
+The goal of this repo is to become a better developer.
 
-This repo aims to get me comfortable with speaking about software development. I'll link to it from LinkedIn once a week and see if it benefits anyone else.
+## The Strategy
+
+* Dig up old and recent projects, and then fiddle with them at every chance I get.
+* Work on a project with my new mentor and a few other developers.
+* Connect with other developers through networking and blogging.
